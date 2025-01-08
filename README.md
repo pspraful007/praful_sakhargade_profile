@@ -1,11 +1,11 @@
 <h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 <ul>
   <li>I'm <a href = "https://ashishps.com/">Praful</a>, a Data Analyst having 3+ years of experience working in Data Engineering, Data Visualixzation, Database Management and ETL Processes</li>
+  <li>I have experience working with cloud platforms such as AWS and Azure (including Databricks), data visualization tools like PowerBI, Excel, and AWS QuickSight, as well as databases including SQL (MySQL, NoSQL). </li>
+  <li>Additionally, I am proficient in programming languages such as Python, DAX, Java, and Object-Oriented Programming (OOPS).</li>
   <li>Checkout my GitHub repositories on <a href = "https://github.com/pspraful007/HR_Analytics_Dashboard.git">HR Analytical Dashboard</a>, <a href = 
   "https://github.com/pspraful007/Sales_Dashboard.git">Sales Dashboard</a></li>
-  <li>Join my free <a href = "https://bit.ly/amghpr">AlgoMaster Newsletter</a> and get a <b>FREE System Design Interview Handbook</b> in your inbox.</li>
-  <li>Checkout my <a href="https://www.youtube.com/@ashishps_1/videos">YouTube Channel</a> for more in-depth content.</li>
-  <li>Follow me on <a href="https://www.linkedin.com/in/praful-sakhargade-913076183/">LinkedIn</a> and <a href="https://twitter.com/ashishps_1">X</a> to stay updated.</li>
+  <li>Follow me on <a href="https://www.linkedin.com/in/praful-sakhargade-913076183/">LinkedIn</a> to stay updated.</li>
 </ul>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pspraful007&show_icons=true&locale=en" alt="ashishps1" />
