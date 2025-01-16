@@ -8,6 +8,6 @@
   <li>Follow me on <a href="https://www.linkedin.com/in/praful-sakhargade-913076183/">LinkedIn</a> to stay updated.</li>
 </ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pspraful007&show_icons=true&locale=en" alt="ashishps1" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pspraful007&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pspraful07&show_icons=true&locale=en" alt="ashishps1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pspraful07&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
